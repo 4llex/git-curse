@@ -1,3 +1,3 @@
 # Github
 # curso basico do git
-# aditando o arquivo  
+# aditando o arquivos  
